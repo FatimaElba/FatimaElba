@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hi, I'm Fatima El Barakaz, a passionate and Aspiring Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science with focus on Feature Engineering, Data pre-processing, Data collection (Web scraping) and model training. After some time you can call me self-taught Data Science Engineer from India
+Hi, I'm Fatima El Barakaz, a passionate and Aspiring Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science with focus on Feature Engineering, Data pre-processing, Data collection (Web scraping) and model training.
 
 
 Here are some ideas to get you started:
